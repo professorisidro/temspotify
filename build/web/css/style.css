@@ -1,0 +1,61 @@
+#creditos{
+    font-size: 10px;
+}
+#h4error{
+    color: #c12e2a;
+}
+
+body{
+    background: #404040;
+    color: #FFFFFF;
+}
+h3{
+    color: #40ff00;
+    text-shadow: 1px 1px #c0c0c0;
+}
+
+.btn{
+    background: #449d44;
+    border-color: #449d44;
+}
+.btn:hover, btn:active{
+    background: #40ff00;
+    border-color: #40ff00;
+    color: #000000;
+}
+a:hover, a:active, a:link{
+    color: #FFFFFF;
+}
+
+
+.btnlink {
+    height: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+.botao{
+    background: #449d44;
+    border-color: #449d44;
+    color: #FFFFFF; 
+    border-radius: 10px;
+    
+}
+
+.artista{
+    color: #FFFFFF;
+    font-size: x-small;
+}
+.tituloMusica{
+    color: #FFFFFF;
+    font-size: medium; 
+}
+
+#imgplay{
+    width: "10%";
+    height: "10%";
+}
+
